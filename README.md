@@ -84,9 +84,9 @@ For quicker fetching we use `Promise.all` to fetch both countries at the same ti
 
 My website is open-source and released under the [MIT License](LICENSE).
 
-## Aknolegdments
+## Acknowledgments
 
-- Eefje Snel [Eefje Snel](LICENSE).
+- Eefje Snel
 - Joppe Koops 
 - Lynn Wolters 
 - Jop Molenaar
