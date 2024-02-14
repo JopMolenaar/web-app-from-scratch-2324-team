@@ -12,7 +12,22 @@ Je zorgt ervoor dat in ./docs/team.json de juiste urls naar de persoonlijke pagi
 
 ## Table of contents
 
+- Installation
+- If you want the backend too
+- Use of features
+- External data source properties
+- Whishlist
+- License
+
 ## Installation
+
+1. Clone the repository:
+
+    ```
+    git clone https://github.com/JopMolenaar/web-app-from-scratch-2324-team.git
+    ```
+
+2. Open the cloned file with your code editor and start coding!
 
 ## Use of features
 
@@ -20,4 +35,12 @@ Je zorgt ervoor dat in ./docs/team.json de juiste urls naar de persoonlijke pagi
 
 ## Whishlist
 
-## Licence
+- [ ] Fixing the accessibility on our website
+
+## License
+
+My website is open-source and released under the [MIT License](LICENSE).
+
+## Sources
+
+All used images are from [unsplash](https://unsplash.com/)
